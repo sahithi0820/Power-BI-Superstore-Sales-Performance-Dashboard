@@ -1,12 +1,12 @@
-**📊 Power BI Superstore Sales Performance Dashboard**
+>**📊 Power BI Superstore Sales Performance Dashboard**
 
 An end-to-end Power BI project that transforms raw Superstore sales data into an interactive strategic dashboard for performance management and business intelligence.
 
-**📋 Project Overview**
+>**📋 Project Overview**
 
 This Power BI dashboard provides comprehensive analysis of Superstore sales performance, enabling stakeholders to track sales and profit trends, analyze performance by product category and region, and identify specific sub-categories impacting profitability.
 
-**🎯 Objectives**
+>**🎯 Objectives**
 
 •Track sales and profit trends over time
 
@@ -127,8 +127,5 @@ I implemented the following key DAX measures:
 1. Power BI Desktop (free download from Microsoft)
    
 2. Basic understanding of business analytics concepts
-4. Dataset access (included in repository)
-
-Business Intelligence - Actionable insight generation
-
-Financial Analysis - Profit margin calculations and profitability analysis
+   
+3. Dataset access (included in repository)
